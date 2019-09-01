@@ -1,1 +1,1 @@
-arquivo tipo js
+arquivo tipo js.
